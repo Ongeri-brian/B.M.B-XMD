@@ -8,7 +8,7 @@
     "owner-verification": "tzsailas@gmail.com",  
     "env": {
       "SESSION_ID": {
-        "description": "Put your SESSION_ID here. Make sure it starts with B.m.b-Xmd~  or get session id from here,  https://bmb-zqqf.onrender.com",
+        "description": "B.m.b-Xmd~hCsSgLza#vIIEzW-I5AeCLv1EsxdQHkHDrsTIzZ6C6SDcLragQYk",
         "value":"",
         "required": true        
     },
@@ -25,7 +25,7 @@
     "MODE": {
       "description": "select your bot work type public-private-inbox-group.",
       "required": false,
-      "value": "public"      
+      "value": "private"      
     },        
     "ALWAYS_ONLINE": {
       "description": "Make it true if want always online.",
@@ -58,14 +58,14 @@
       "value": ""   
    },     
     "OWNER_NAME": {
-      "description": "Type Bot Owner Name.",
+      "description": "ONGERI 💜",
       "required": false,
-      "value": "𝐌𝐫 HansTz"
+      "value": "ONGERI💜"
    }, 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "255767862457"
+      "value": "254713145618"
    }, 
     "BOT_NAME": {
       "description": "Type here the bot name.",
